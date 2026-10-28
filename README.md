@@ -1,16 +1,64 @@
-# React + Vite
+# My Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Live Demo
 
-Currently, two official plugins are available:
+Check out my portfolio website here:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[Visit My Portfolio](https://sedratii.netlify.app/)**
 
-## React Compiler
+## About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a Web Developer.
 
-## Expanding the ESLint configuration
+I created this portfolio to present my work, highlight my technical skills, and connect with recruiters and developers.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **HTML5** — Website structure
+- **CSS3** — Styling and responsive design
+- **JavaScript** — Interactive features
+- **React.js** — Building user interfaces
+
+## Features
+
+- Modern and responsive design
+- About Me section
+- Skills and services
+- Projects showcase
+- Contact section
+- Social media links
+- Smooth animations and interactive elements
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/smailsedrati00-afk/portfolio.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Contact
+
+- **Portfolio:** https://sedratii.netlify.app/
+- **GitHub:** [smailsedrati00-afk](https://github.com/smailsedrati00-afk)
+- **Email
